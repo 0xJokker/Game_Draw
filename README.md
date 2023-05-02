@@ -16,5 +16,12 @@ El proyecto utiliza la tecnología Canvas de HTML5 para crear un lienzo en el cu
 ![image](https://user-images.githubusercontent.com/129913584/235804096-4abd7ccb-87e1-4c75-8a70-97a8226eba42.png)
 
 
-Este proyecto es ideal para aquellos interesados en el desarrollo web y la programación creativa. ¡Espero que lo disfrutes!
+Este proyecto es ideal para aquellos interesados en el desarrollo web y la programación creativa. 
+¡Espero que lo disfrutes!
+
+[ https://jokerc0.github.io/Game_Draw/ ]
+
+## Autor
+**Eduard Sepulveda***
+**copyright ©**  All rights reserved
 
