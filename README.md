@@ -23,5 +23,7 @@ Este proyecto es ideal para aquellos interesados en el desarrollo web y la progr
 
 ## Autor
 **Eduard Sepulveda***
+
+## Licence
 **copyright ©**  All rights reserved
 
